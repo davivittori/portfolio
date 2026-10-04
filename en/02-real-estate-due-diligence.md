@@ -1,4 +1,4 @@
-# Real-Estate Due Diligence Agent — document analysis with provenance and a rules engine
+# Real-Estate Due Diligence Agent: document analysis with provenance and a rules engine
 
 **Type:** client project (real-estate legal team), private code · **Period:** Jul–Oct 2026 (in production) · **Volume:** ~400 commits, 148 test files, 10 ADRs, CI
 

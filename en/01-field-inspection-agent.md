@@ -1,4 +1,4 @@
-# Field Inspection Agent — offline PWA for property inspections with AI analysis
+# Field Inspection Agent: offline PWA for property inspections with AI analysis
 
 **Type:** client project (real-estate group), private code · **Period:** Sep–Oct 2026 (in production) · **Volume:** 2 repositories, ~280 commits
 
