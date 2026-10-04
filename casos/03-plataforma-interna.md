@@ -36,8 +36,8 @@ Cloudflare Pages. Reescrita em curso em React + TanStack Router/Start + Tailwind
 
 ## Meu papel
 Desenvolvedor responsável pela plataforma: levantamento com as áreas, desenvolvimento,
-modelo de dados e políticas de acesso, publicação e acompanhamento com os interessados.
-Fluxo de trabalho em dupla com o líder de tecnologia (PRs, revisão, promoção para produção).
+modelo de dados e políticas de acesso, publicação, revisão de mudanças por pull request e
+acompanhamento com os interessados.
 
 ## Decisões técnicas relevantes
 1. **Segredo nunca no repositório:** chaves vivem no Vault/Secrets do Supabase; o front só

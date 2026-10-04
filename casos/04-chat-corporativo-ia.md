@@ -4,7 +4,7 @@
 
 ## Contexto
 A empresa queria um chat com IA que respondesse a partir do seu acervo (material institucional
-e fontes canônicas dos fundadores), sem que alguém precisasse subir documentos à mão e sem
+e textos de referência da empresa), sem que alguém precisasse subir documentos à mão e sem
 risco de a base "sumir" por um erro de sincronização.
 
 ## Problema
@@ -40,7 +40,7 @@ flowchart LR
 ## Meu papel
 Desenvolvedor responsável pela esteira e pelas customizações da interface: levantamento,
 arquitetura, código, operação (runbooks, alarmes, renovação de segredos) e acompanhamento
-com o líder de tecnologia e os interessados.
+com os interessados.
 
 ## Decisões técnicas relevantes
 1. **Quem escreve na base é quem bloqueia.** O `puxar` (repo, reversível) só relata; o

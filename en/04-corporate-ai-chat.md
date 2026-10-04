@@ -4,7 +4,7 @@
 
 ## Context
 The company wanted an AI chat that answers from its own archive (institutional material and the
-founders' reference texts), without anyone uploading documents by hand and without the risk of
+the company's reference texts), without anyone uploading documents by hand and without the risk of
 the knowledge base "disappearing" because of a sync error.
 
 ## Problem
@@ -39,8 +39,7 @@ flowchart LR
 
 ## My role
 Lead developer for the pipeline and the interface customizations: requirements, architecture,
-code, operations (runbooks, alarms, secret rotation) and follow-up with the head of technology
-and stakeholders.
+code, operations (runbooks, alarms, secret rotation) and follow-up with stakeholders.
 
 ## Key technical decisions
 1. **Whoever writes to the base is whoever blocks.** The pull step (repository, reversible) only

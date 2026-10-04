@@ -36,8 +36,7 @@ Cloudflare Pages. Rewrite in progress in React + TanStack Router/Start + Tailwin
 
 ## My role
 Lead developer for the platform: requirements with each area, development, data model and access
-policies, deployment and follow-up with stakeholders. Worked in a pair with the head of
-technology (PRs, review, promotion to production).
+policies, deployment, pull-request review and follow-up with stakeholders.
 
 ## Key technical decisions
 1. **Secrets never in the repository:** keys live in Supabase Vault/Secrets; the front end only
