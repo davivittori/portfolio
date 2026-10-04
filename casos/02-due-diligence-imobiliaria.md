@@ -1,5 +1,7 @@
 # Agente de Due Diligence Imobiliária: análise documental com proveniência e motor de regras
 
+![](../imagens/capa-01.jpg)
+
 **Tipo:** projeto para cliente (jurídico imobiliário), código fechado · **Período:** jul–out/2026 (em produção) · **Volume:** ~400 commits, 148 arquivos de teste, 10 ADRs, CI
 
 ## Contexto

@@ -1,5 +1,7 @@
 # Plataforma interna (intranet / SGI) para empresa de ~35 colaboradores
 
+![](../imagens/capa-04.jpg)
+
 **Tipo:** projeto para cliente (grupo do setor imobiliário), código fechado · **Período:** ago–out/2026 (em produção) · **Volume:** ~1.360 commits + reescrita em andamento (~390 commits)
 
 ## Contexto

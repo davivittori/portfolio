@@ -1,5 +1,7 @@
 # WhatsApp assistant for older adults (final course project)
 
+![](../imagens/capa-05.jpg)
+
 **Type:** personal project, **open source** · **Period:** Jun–Sep 2026 · **Code:** [davivittori/chatbot-idosos](https://github.com/davivittori/chatbot-idosos)
 
 ## Context

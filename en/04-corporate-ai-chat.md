@@ -1,5 +1,7 @@
 # Corporate AI chat over a knowledge base (interface + automated pipeline)
 
+![](../imagens/capa-03.jpg)
+
 **Type:** client project, private code · **Period:** Jul–Sep 2026 (in production) · **Volume:** pipeline with 617 commits and 13 GitHub Actions workflows; ~290 own commits on an Open WebUI fork
 
 ## Context

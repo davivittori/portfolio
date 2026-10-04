@@ -1,5 +1,7 @@
 # Internal platform (intranet) for a ~35-person company
 
+![](../imagens/capa-04.jpg)
+
 **Type:** client project (real-estate group), private code · **Period:** Aug–Oct 2026 (in production) · **Volume:** ~1,360 commits + rewrite in progress (~390 commits)
 
 ## Context

@@ -1,5 +1,7 @@
 # Field Inspection Agent: offline PWA for property inspections with AI analysis
 
+![](../imagens/capa-02.jpg)
+
 **Type:** client project (real-estate group), private code · **Period:** Sep–Oct 2026 (in production) · **Volume:** 2 repositories, ~280 commits
 
 ## Context

@@ -1,5 +1,7 @@
 # Agente de Visitas: PWA de campo para vistoria de imóveis com análise por IA
 
+![](../imagens/capa-02.jpg)
+
 **Tipo:** projeto para cliente (grupo do setor imobiliário), código fechado · **Período:** set–out/2026 (em produção) · **Volume:** 2 repositórios, ~280 commits
 
 ## Contexto

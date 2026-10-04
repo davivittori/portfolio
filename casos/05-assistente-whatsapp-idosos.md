@@ -1,5 +1,7 @@
 # Assistente no WhatsApp para pessoas idosas (TCC)
 
+![](../imagens/capa-05.jpg)
+
 **Tipo:** projeto próprio, **código aberto** · **Período:** jun–set/2026 · **Código:** [davivittori/chatbot-idosos](https://github.com/davivittori/chatbot-idosos)
 
 ## Contexto

@@ -1,5 +1,7 @@
 # Chat corporativo com IA sobre base de conhecimento (interface + esteira automática)
 
+![](../imagens/capa-03.jpg)
+
 **Tipo:** projeto para cliente, código fechado · **Período:** jul–set/2026 (em produção) · **Volume:** esteira com 617 commits e 13 workflows no GitHub Actions; ~290 commits próprios sobre um fork do Open WebUI
 
 ## Contexto
