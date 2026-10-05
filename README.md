@@ -4,8 +4,8 @@ Desenvolvedor de **agentes de IA, chatbots, automações e sistemas internos** p
 Aqui estão os estudos de caso de sistemas que entreguei e estão em uso: problema, arquitetura,
 decisões técnicas e resultado.
 
-**Formação:** Engenharia Elétrica (UEM, 2021) · Pós-graduação em Engenharia de Software (USP, 2026) ·
-Certificado em Inteligência Artificial Agêntica (MIT, 2026)
+**Formação:** Engenharia Elétrica (UEM, 2021) · MBA em Engenharia de Software (USP/Esalq, conclusão em 2027) ·
+Certificado em Inteligência Artificial Agêntica Aplicada à Transformação Empresarial (MIT, 2026)
 
 > **EN:** AI agents, automation and internal systems for businesses. Case studies of production
 > systems: problem, architecture, technical decisions and results. English versions in [`en/`](en/).

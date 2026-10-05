@@ -3,8 +3,8 @@
 I build **AI agents, chatbots, automations and internal systems** for businesses. These are case
 studies of systems I delivered that are in use: problem, architecture, technical decisions and results.
 
-**Education:** B.Sc. Electrical Engineering (UEM, 2021) · Postgraduate degree in Software Engineering
-(University of São Paulo, 2026) · Agentic Artificial Intelligence certificate (MIT, 2026)
+**Education:** B.Sc. Electrical Engineering (UEM, 2021) · MBA in Software Engineering
+(University of São Paulo, in progress, expected 2027) · Agentic AI Applied to Business Transformation certificate (MIT, 2026)
 
 | # | Project | What it shows | Main stack |
 |---|---|---|---|
